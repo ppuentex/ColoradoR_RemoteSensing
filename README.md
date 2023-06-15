@@ -1,1 +1,1 @@
-# Quantifying storage losses in the Colorado River Megadrought: Lake Powell and Lake Mead
+# Evaluating the Use of Remote Sensing for Reservoir Quantification in the Western US
