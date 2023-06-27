@@ -1,3 +1,4 @@
 environment.yml
 .vscode
 test.py
+.pl_api_key
