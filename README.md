@@ -8,5 +8,8 @@ This folder includes geojson files of Lake Mead and Lake Powell.
 ## search_API
 This jupyter notebook is the current work in progress to look at Planet scenes through their API of Lake Mead and Lake Powell. 
 
+## request_download 
+This jupyter notebook is requesting and downloading Scenes from Planet.
+
 ## test_NDWI 
-This jupyter notebook is ordering and downloading data from Planet to calcualte NDWI for Lake Mead for June 19th, 2023. 
+This jupyter notebook is to calcualte NDWI for Lake Mead for June 19th, 2023. 
