@@ -3,3 +3,4 @@ environment.yml
 test.py
 .pl_api_key
 data
+.DS_Store
